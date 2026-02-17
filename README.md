@@ -3,7 +3,7 @@
 Tekijä: Timo Lampinen
 
 ## Sisältö
-Tässä repositoriossa ovat kurssin harjoitukset 1–7 (Hello-ohjelma).
+Tässä repositoriossa ovat kurssin harjoitukset 1–7.
 
 ### Haarat 
 - master 
